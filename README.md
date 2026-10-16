@@ -16,11 +16,13 @@ When a verified person clicks your name, they should instantly understand who yo
 Clear bio + the pinned profile README / notes style helps.]
 - [Get X Premium yourself (optional but helpful)
 It gives your replies higher priority, so more verified people see them. Not required to grow, but it helps the reply game.]
-
+- [reply under bigger accounts with something useful or slightly spicy (not just agreement). aim for 10–20 quality replies a day.]
+- [rough thought → Grok rewrite → Typefully → post or schedule. 1–3 original posts a day.]
+- [keep the profile clear so when someone clicks through they immediately know why to follow.]
 
 ### random useful
 - [reply priority > original posts when you're still small. one good reply under a bigger account can outperform 10 of your own posts.]
-
+- [when you’re still small, one good reply under a bigger account usually beats 10 of your own posts.]
 ---
 
 i update this when something actually works better.  
